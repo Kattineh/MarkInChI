@@ -2,7 +2,7 @@
 
 This folder contains a python
 script, markinchi.py, to convert a MarkInChI
-to a list of inchis and plot them. It also has another python script, markmol.py, that can produce markinchi strings from markush 2000V sdf files. Moreover, there is a python gui script, markinchi_gui.py, and a .exe application, markinchi_gui.exe, in the dist folder. This version
+to a list of inchis and plot them. It also has another python script, markmol.py, that can produce markinchi strings from markush 2000V sdf files. Moreover, there is a python gui script, markinchi_gui.py, and a .exe application, markinchi_gui.exe, that can be built using the batch file, PI.bat, in a virtual environment that contains the rdkit package. This version
 covers all 5 examples described in the
 MarkInChI and VInChI Working Group meeting
 on 17th of May 2021 (see in resources) and which you can also find in the 'Examples' folder. The whole
@@ -32,7 +32,7 @@ Some changes have been applied to make MarkInChI more compatible and efficient:
 
 ## Final Notes on the EXE Application
 
-The application was built using the PyInstaller package and the software makes extensive use of the Python RDKIT package. MarvinSketch, a product of ChemAxon, is used to produce the markush sdf files in the examples. A copy of the rdkit license can be found in the main folder.
+The application can be built using the PyInstaller package and the software makes extensive use of the Python RDKIT package. MarvinSketch, a product of ChemAxon, is used to produce the markush sdf files in the examples. A copy of the rdkit license can be found in the main folder.
 
 ## Resources
 
