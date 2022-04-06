@@ -45,3 +45,4 @@ The application can be built using the PyInstaller package and the software make
 4- [Presentation 3 - Abdullah Kattineh](https://docs.google.com/presentation/d/1Q45tEMzSBWpYQxvWDJojaQH_Q-P0I0BW/edit?usp=sharing&ouid=104156901695306507330&rtpof=true&sd=true)
 
 5- [Presentation 4 - Abdullah Kattineh](https://docs.google.com/presentation/d/17Cg3LWVf9LIutk8ik0HVcpAGzmqwZ3xk/edit?usp=sharing&ouid=104156901695306507330&rtpof=true&sd=true)
+
